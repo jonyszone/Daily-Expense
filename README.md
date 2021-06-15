@@ -61,7 +61,7 @@ can  sort and save all our work in sevaral way.
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-add expense]]
+[![Product Name Screen Shot][product-dashboard]]
 
 
 
